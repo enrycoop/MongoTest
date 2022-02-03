@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: testUser
+      password: testPsw
+      database: testdb
+      port: 27017
+      host: localhost
+      auto-index-creation: true
